@@ -1,2 +1,1 @@
-# react-playground
-Just a playground
+Boilerplate React App
